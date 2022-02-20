@@ -9,8 +9,7 @@ To implement this web scrapper install it into your environment by using the com
 To Scrap the Specific Pages
 Following web scraping best practices, different spiders have been created to meet the needs of different categories with regards the peculiarities of their web pages and pagination of each category...
 
-https://www.neimanmarcus.com/, is the domain name of the website whose shoe category is to be scraped
-
+The scrapper was used on an online store to scrape prices
 
 # Example Tutorial to scrape information from the boots category
 1.cd into the project(Getting into the file location of the marcus scrapper in your terminal)
