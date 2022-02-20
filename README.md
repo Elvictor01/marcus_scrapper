@@ -1,3 +1,5 @@
+# Start Here
+
 Installing Needed Packages
 This particular web scrapy is been powered by "scrapy", an open-source web crawling framework
 To implement this web scrapper install it into your environment by using the command below
@@ -9,7 +11,8 @@ Following web scraping best practices, different spiders have been created to me
 
 https://www.neimanmarcus.com/, is the domain name of the website whose shoe category is to be scraped
 
-Example scrapiing of information from the boots category
+
+# Example Tutorial to scrape information from the boots category
 1.cd into the project(Getting into the file location of the marcus scrapper in your terminal)
 
 2. run "scrapy crawl marcus_boots" in the terminal, to crawl through the specified category in  
